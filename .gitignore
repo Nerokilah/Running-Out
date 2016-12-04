@@ -103,3 +103,5 @@ DerivedDataCache/*
 *.exe
 *.out
 *.app
+Config/DefaultEditor.ini
+Config/DefaultEditor.ini
